@@ -1,0 +1,82 @@
+
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    background-image: url('../components/image/purple-bokeh-digital-business-background.jpg');
+    background-size: cover;
+    overflow: auto;
+  }
+  
+  .team-members,
+  .reviews {
+    background-color: rgba(0,0,0,0.2);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .member {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .member .text {
+    text-align: left;
+  }
+  
+  .member p {
+    margin: 0;
+    color: #fff;
+  }
+  
+  .reviews {
+    text-align: center;
+  }
+  .form-aboutus {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px; 
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  
+  label {
+    margin-bottom: 8px;
+  }
+  
+  input,
+  textarea {
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .button-aboutus {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

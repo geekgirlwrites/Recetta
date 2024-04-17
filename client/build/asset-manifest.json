@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ea2d405.css",
+    "main.js": "/static/js/main.fa86d108.js",
+    "static/media/top-view-fruit-composition-feijoa-tangerines-apples-white-background-fruit-vitamine-mellow-ripe.jpg": "/static/media/top-view-fruit-composition-feijoa-tangerines-apples-white-background-fruit-vitamine-mellow-ripe.ef769e8262091e77b803.jpg",
+    "static/media/vegetarian-food.jpg": "/static/media/vegetarian-food.6292e89d9f5fd054175b.jpg",
+    "static/media/fresh-colourful-ingredients-mexican-cuisine.jpg": "/static/media/fresh-colourful-ingredients-mexican-cuisine.6a990e79b6c4584b290e.jpg",
+    "static/media/bg.jpg": "/static/media/bg.0c5e0e58a04e8b9b2f76.jpg",
+    "static/media/top-close-up-view-vegetables-tomatoes-with-pedicels-garlic-bell-peppers-lemon-oil-onion.jpg": "/static/media/top-close-up-view-vegetables-tomatoes-with-pedicels-garlic-bell-peppers-lemon-oil-onion.eef76a2c46fdc3761f61.jpg",
+    "static/media/purple-bokeh-digital-business-background.jpg": "/static/media/purple-bokeh-digital-business-background.565e77388a51961ab335.jpg",
+    "static/media/various-colorful-cherry-tomatoes.jpg": "/static/media/various-colorful-cherry-tomatoes.3af9a23f903e6ea027fe.jpg",
+    "static/media/PlayfairDisplay-Italic-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-Italic-VariableFont_wght.2f795353f413479428d6.ttf",
+    "static/media/IMG_20230605_185705.jpg": "/static/media/IMG_20230605_185705.5ddf4dc971142406667c.jpg",
+    "static/media/IMG_20220428_132743~2.jpg": "/static/media/IMG_20220428_132743~2.606bd714b92ced9c4452.jpg",
+    "static/media/chili-spices-food-herbs-4ufm5tuhg74cif8b.jpg": "/static/media/chili-spices-food-herbs-4ufm5tuhg74cif8b.fbf78595bb6de95819b5.jpg",
+    "static/media/lp-foodservice-main-desktop-banner-02.jpg": "/static/media/lp-foodservice-main-desktop-banner-02.30e5cb4f01073841a6ea.jpg",
+    "static/media/diya hinger.png": "/static/media/diya hinger.d090f41a4b23628f0fda.png",
+    "static/media/9d055793-5e83-40fc-b96a-3875aae5a154.jpg": "/static/media/9d055793-5e83-40fc-b96a-3875aae5a154.e0256b4fc332670f9597.jpg",
+    "index.html": "/index.html",
+    "main.1ea2d405.css.map": "/static/css/main.1ea2d405.css.map",
+    "main.fa86d108.js.map": "/static/js/main.fa86d108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea2d405.css",
+    "static/js/main.fa86d108.js"
+  ]
+}

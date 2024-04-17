@@ -1,0 +1,61 @@
+.fromname_body1 {
+  padding-top: 350px;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(24, 23, 23, 0.5);
+  background-position: center;
+  overflow: auto;
+  padding-bottom: 100px;
+}
+
+.fromname_body {
+  margin: 0px;
+  padding: 0px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../components/image/various-colorful-cherry-tomatoes.jpg');
+  background-size: cover;
+  background-attachment:local;
+  overflow: auto;
+  font-family: 'Lato' !important;
+}
+
+.search-box {
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.head,
+p {
+  color: white;
+  margin: 10px 0;
+}
+
+.recipe-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.recipe-result {
+  max-width: 400px;
+  padding: 20px;
+  padding-top: 600px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.recipe-result img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}

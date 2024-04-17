@@ -1,0 +1,73 @@
+
+.create-recipe-body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../components/image/chili-spices-food-herbs-4ufm5tuhg74cif8b.jpg'); 
+    background-size:cover;
+   
+  }
+  .create-recipe h2 {
+    color: #c8d681; 
+    font-size: 40px; 
+    margin-bottom: 30px;
+   
+   
+    font-family: 'Your Custom Font', sans-serif;
+  }
+  
+
+  .create-recipe {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 40px;
+    background-color: rgba(55, 47, 47, 0.5);
+    
+  
+  }
+  
+  
+  .create-recipe form {
+    display: grid;
+    gap: 20px;
+    
+  }
+  
+  .create-recipe-group {
+    display: grid;
+    gap: 5px;
+    
+  
+  }
+  .create-recipe label{
+    color: #c8d681;
+  }
+  
+  .create-recipe label {
+    font-weight: bold;
+    
+  }
+  
+  .create-recipe input[type="text"],
+  .create-recipe input[type="number"],
+  .create-recipe textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 50px; 
+    box-sizing: border-box;
+    
+  }
+  .create-recipe button{
+    padding: 10px 20px;
+    background-color:#c8d681;
+    color: #0c0c0c;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create-recipe button:hover {
+    background-color: #0056b3;
+  }

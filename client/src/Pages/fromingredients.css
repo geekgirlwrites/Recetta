@@ -1,0 +1,152 @@
+
+.cont1
+{
+    padding-top: 50px;
+    height:100vh;
+    width: 500vh;
+    size: relative;
+    background-color:  rgba(0, 0, 0, 0.7);
+    background-position: center;
+    overflow: auto;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.fromname_body1
+{
+    height:100vh;
+    width: 500vh;
+    size: relative;
+    background-color:  rgba(24, 23, 23, 0.5);
+    background-position: center;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+.cont{
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../components/image/top-view-fruit-composition-feijoa-tangerines-apples-white-background-fruit-vitamine-mellow-ripe.jpg');
+    background-size: cover;
+   
+    overflow: auto;
+    font-family: 'Lato' !important;
+    padding-bottom: 10px;
+  }
+  .search-box{
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    margin-bottom: 300px;
+  }
+  .input-search{
+    height: 10px;
+    width: 30px;
+    border-style: none;
+    padding: 10px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    outline: none;
+    border-radius: 25px;
+    transition: all .5s ease-in-out;
+    background-color: white;
+    padding-right: 40px;
+    color:#fff;
+  }
+  .input-search::placeholder{
+    color:rgba(208, 205, 205, 0.5);
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-weight: 100;
+  }
+  .btn-search{
+    width: 50px;
+    height: 50px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+    position: absolute;
+    right: 0px;
+    color:#ffffff ;
+    background-color:transparent;
+    pointer-events: painted;  
+  }
+  .btn-search:focus ~ .input-search{
+    width: 300px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom:1px solid rgba(255,255,255,.5);
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  }
+  .input-search:focus{
+    width: 300px;
+    border-radius: 0px;
+    background-color: transparent;
+    border-bottom:1px solid rgba(255,255,255,.5);
+    transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  }
+  .saved-recipes {
+    text-align: center;
+    background-image: url('../components/image/bg.jpg');
+    background-size: cover;
+  }
+  
+  .recipe-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .recipe-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: left;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recipe-name {
+    font-size: 1.5rem;
+    margin-top: 0;
+  }
+  
+  .recipe-ingredients ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recipe-ingredients li {
+    margin-left: 20px;
+  }
+  
+  .recipe-instructions {
+    margin-top: 10px;
+  }
+  
+  .recipe-image {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .recipe-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  p {
+    margin: 0;
+  }

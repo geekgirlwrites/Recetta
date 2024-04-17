@@ -1,0 +1,35 @@
+.auth-container
+{
+    background-color: rgb(24, 23, 23,0.7);
+}
+.auth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../components/image/vegetarian-food.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    gap:20%;
+    
+  }
+  .auth-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    background-color: rgb(24, 23, 23,0.7);
+    box-shadow: 0 0 5px rgb(52, 22, 22);
+    margin:20px;
+    width: 400px;
+    height: 50%;
+  }
+  .form-group{
+    display: flex;
+    gap:10px;
+    margin-bottom: 20px;
+  }  
+  
